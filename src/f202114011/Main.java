@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("오수경");
 		World.run();
 		World.run2();
+		Hello.run();
 	}
 
 }
